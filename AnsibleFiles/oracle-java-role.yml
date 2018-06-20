@@ -1,0 +1,5 @@
+- name: Install Oracle Java
+  hosts: nodes
+  become: true
+  roles:
+    - oracle-java
