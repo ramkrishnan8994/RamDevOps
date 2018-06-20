@@ -1,6 +1,7 @@
 
 ---
 - hosts: main
+  connection: local
   tasks:
     - name: Generate SSH Key
       command: ssh-keygen -t rsa -f /root/.ssh/id_rsa -N ''
