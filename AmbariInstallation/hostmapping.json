@@ -11,21 +11,11 @@
   }
   ]
   },
-  
   {
   "name" : "datanode1
   "hosts" : [
   {
   "fqdn" : "dn1.localdomain
-  }
-  ]
-  },
-  
-  {
-  "name" : "datanode2
-  "hosts" : [
-  {
-  "fqdn" : "dn2.localdomain
   }
   ]
   }
