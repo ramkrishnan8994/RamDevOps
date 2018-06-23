@@ -3,8 +3,7 @@
 "default_password" : "hadoop",
 "host_groups" :[
   {
-  
-  "name" : "namenode"
+  "name" : "namenode",
   "hosts" : [
   {
   "fqdn" : "nn1.localdomain"
@@ -12,10 +11,10 @@
   ]
   },
   {
-  "name" : "datanode1
+  "name" : "datanode1",
   "hosts" : [
   {
-  "fqdn" : "dn1.localdomain
+  "fqdn" : "dn1.localdomain"
   }
   ]
   }
