@@ -1,0 +1,33 @@
+{
+"blueprint" : "multinode-hdp",
+"default_password" : "hadoop",
+"host_groups" :[
+  {
+  
+  "name" : "namenode"
+  "hosts" : [
+  {
+  "fqdn" : "nn1.localdomain"
+  }
+  ]
+  },
+  
+  {
+  "name" : "datanode1
+  "hosts" : [
+  {
+  "fqdn" : "dn1.localdomain
+  }
+  ]
+  },
+  
+  {
+  "name" : "datanode2
+  "hosts" : [
+  {
+  "fqdn" : "dn2.localdomain
+  }
+  ]
+  }
+]
+}
