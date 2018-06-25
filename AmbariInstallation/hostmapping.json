@@ -1,5 +1,5 @@
 {
-"blueprint" : "G101",
+"blueprint" : "G101_Blueprint",
 "default_password" : "hadoop",
 "host_groups" :[
   {
