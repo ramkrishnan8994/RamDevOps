@@ -1,5 +1,5 @@
 {
-"blueprint" : "G101_Blueprint_new",
+"blueprint" : "G101",
 "repository_version": "2.6.5.0-292",  
 "default_password" : "hadoop",
 "host_groups" :[
