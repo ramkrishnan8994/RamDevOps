@@ -1,5 +1,6 @@
 {
 "Repositories" : {
+  "repo_name": "HDP-2.6.5.0",
   "base_url" : "file:///bin/HadoopRequirements/HDP/centos6/2.6.5.0-292",
   "verify_base_url" : true
 }
