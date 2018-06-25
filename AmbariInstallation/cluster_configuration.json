@@ -20,7 +20,10 @@
         }, 
 	{
 	  "name": "APP_TIMELINE_SERVER"
- 	}
+ 	},
+	{
+          "name" : "DATANODE"
+        }
       ],
       "cardinality" : "1"
     },
@@ -50,7 +53,7 @@
     }
   ],
   "Blueprints" : {
-    "blueprint_name" : "G101_Blueprint_new",
+    "blueprint_name" : "G101",
     "stack_name" : "HDP",
     "stack_version" : "2.6"
   }
