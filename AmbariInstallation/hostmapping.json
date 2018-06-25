@@ -1,5 +1,5 @@
 {
-"blueprint" : "multi-node-hdfs-yarn",
+"blueprint" : "G101",
 "default_password" : "hadoop",
 "host_groups" :[
   {
