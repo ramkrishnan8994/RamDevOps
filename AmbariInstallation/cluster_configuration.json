@@ -51,7 +51,6 @@
   ],
   "Blueprints" : {
     "blueprint_name" : "G101_Blueprint",
-    "repository_version": "2.6.5.0-292",  
     "stack_name" : "HDP",
     "stack_version" : "2.6"
   }
