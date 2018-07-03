@@ -7,3 +7,8 @@ openldap_server_pkgs:
 openldap_server_app_path: "/etc/ldap/"
 openldap_server_user: "openldap"
 
+openldap_serverdomain_name: ansiblenode1    # The domain prefix for ldap
+openldap_serverrootpw: ralapakr1!              # This is the password for admin for openldap
+openldap_serverenable_ssl: false            # To enable/disable ssl for the ldap
+
+
