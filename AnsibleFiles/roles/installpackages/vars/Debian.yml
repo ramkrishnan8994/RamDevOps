@@ -1,0 +1,11 @@
+packages:  
+  - unzip
+  - python-virtualenv
+  - python-pip
+  - python-dev
+  - libffi-dev
+  - libssl-dev
+  - libyaml-dev
+  - sshpass
+  - vim
+  - git
