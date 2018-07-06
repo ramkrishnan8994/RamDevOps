@@ -1,0 +1,12 @@
+packages:  
+  - epel-release
+  - gcc
+  - gcc-c++
+  - python-virtualenv
+  - python-pip
+  - python-devel
+  - libffi-devel
+  - openssl-devel
+  - libyaml-devel
+  - sshpass
+  - vim-enhanced
