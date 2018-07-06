@@ -1,0 +1,5 @@
+---
+
+- hosts: hostserver
+  roles:
+    - { role: 'installpackages' }
