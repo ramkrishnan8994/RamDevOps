@@ -10,3 +10,4 @@ packages:
   - libyaml-devel
   - sshpass
   - vim-enhanced
+  - git
