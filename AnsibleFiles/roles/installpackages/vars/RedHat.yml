@@ -19,6 +19,7 @@ packages:
   - ntp
   - postgresql
   - postgresql-jdbc
+  - postgresql-server
   - MySQL-python
   - mysql-connector-java
   - MySQL-python
