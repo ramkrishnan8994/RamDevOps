@@ -9,3 +9,7 @@ packages:
   - sshpass
   - vim
   - git
+  - postgresql-client
+  - libpostgresql-jdbc-java
+  - python-mysqldb
+  - libmysql-java
