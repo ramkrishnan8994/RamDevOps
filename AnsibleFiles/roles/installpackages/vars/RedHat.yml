@@ -11,3 +11,15 @@ packages:
   - sshpass
   - vim-enhanced
   - git
+  - curl
+  - unzip
+  - tar
+  - wget
+  - openssl
+  - ntp
+  - postgresql
+  - postgresql-jdbc
+  - MySQL-python
+  - mysql-connector-java
+  - MySQL-python
+  - mysql-connector-java
